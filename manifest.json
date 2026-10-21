@@ -1,0 +1,17 @@
+{
+  "model": "ecmwf",
+  "model_label": "ECMWF IFS",
+  "run_start_valid": "2026-10-20 18:00",
+  "steps": [
+    0,
+    12,
+    24,
+    36,
+    48
+  ],
+  "products": {
+    "t2m": "2m Temperature + MSLP",
+    "wind": "10m Wind Speed",
+    "windchill": "Wind Chill"
+  }
+}
